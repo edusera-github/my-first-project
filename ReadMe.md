@@ -1,4 +1,3 @@
-
 # Git & GitHub Practical Guide
 
 #### Introduction
