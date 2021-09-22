@@ -43,3 +43,7 @@ Day 3 Contents:
 - How to create a Pull Request?
 - Forking a Repository.
 - Raising a Pull Request.
+- Reviewing a Pull Request.
+- Different Merging Strategies.
+- Merging a Pull Request.
+- Choosing the right strategy.
