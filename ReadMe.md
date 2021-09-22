@@ -1,10 +1,12 @@
 # Git & GitHub Practical Guide
 
-#### Introduction
+## Introduction
 
 - This is an Git & GitHub Practical Guide Live sessions which have been taken by Praveen Kumar Purushothaman.
 - In this you can learn all things about Git & GitHub Usage.
 - You can check the [Playlist](https://rb.gy/ouhdxs).
+
+## Commands Day Wise
 
 Starting Commands:
 
