@@ -10,6 +10,8 @@
   - [Episode 2](https://rb.gy/p9gnds)
   - [Episode 3](https://rb.gy/spmr5j)
 
+Please Like on the Videos. Don't forget to subscribe to my Channel.
+
 ## Commands Day Wise
 
 Starting Commands:
