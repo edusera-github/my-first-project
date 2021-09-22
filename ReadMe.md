@@ -32,3 +32,18 @@ Day 2 Contents:
 - Deleting the branches on GitHub Remotely.
 - Why branching?
 - Going back in Time.
+
+Day 3 Contents:
+
+- Introduction to Issues.
+- Creating an Issue.
+- Assigning issues to collaborators.
+- Getting an issue assigned to you.
+- What are pull requests?
+- How to create a Pull Request?
+- Forking a Repository.
+- Raising a Pull Request.
+- Reviewing a Pull Request.
+- Different Merging Strategies.
+- Merging a Pull Request.
+- Choosing the right strategy.
